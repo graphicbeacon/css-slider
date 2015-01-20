@@ -4,6 +4,6 @@ A simple three image slider built with the web components spec.
 
 Uses webcomponents.js for cross browser support.
 
-Install via bower:
+*bower.json* file is included in this repo so you can install via bower by running this command:
 
-```bower install webcomponentsjs```
+```bower install```
